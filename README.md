@@ -15,7 +15,7 @@ This project is a web application developed using Streamlit that allows users to
 - Matplotlib, Seaborn for data visualization
 
 ## Installation
-1. Clone the repository: git clone https://github.com/1234SwatiPant/fake-review-detection.git
+1. Clone the repository: git clone https://github.com/1234SwatiPant/Fake-Review-Detection-from-Ecommerce.git
 2. Install the required packages: pip install -r requirements.txt
 3. Run the application: streamlit run u.py
 4. Access the application in your browser at http://localhost:8501
