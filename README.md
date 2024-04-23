@@ -1,4 +1,5 @@
-This project is a web application developed using Streamlit that allows users to detect fake reviews in eCommerce products. It uses machine learning models to analyze reviews and classify them as genuine or fake.
+![review](https://github.com/1234SWatiPant/Fake-Review-Detection-from-Ecommerce/assets/125669642/9a900fd9-0d54-45ba-9f06-5f093f676592)
+This project is a application developed using Streamlit that allows users to detect fake reviews in eCommerce products. It uses machine learning models to analyze reviews and classify them as genuine or fake.
 
 ## Features
 - User-friendly interface for uploading review datasets
@@ -15,6 +16,7 @@ This project is a web application developed using Streamlit that allows users to
 - Matplotlib, Seaborn for data visualization
 
 ## Installation
+
 1. Clone the repository: git clone https://github.com/1234SwatiPant/Fake-Review-Detection-from-Ecommerce.git
 2. Install the required packages: pip install -r requirements.txt
 3. Run the application: streamlit run u.py
